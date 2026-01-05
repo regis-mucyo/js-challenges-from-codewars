@@ -12,4 +12,3 @@ findEvenIndex([0, 8]); // 1
 findEvenIndex([8, 8]); // -1
 findEvenIndex([10, -80, 10, 10, 15, 35, 20]); // 6
 
-// This kata is abo
